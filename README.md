@@ -1,5 +1,3 @@
-Certainly! Here's a simple README.md file that you can use for your GitHub repository:
-
 # SQL Server Connection Test
 
 This Python script utilizes PyODBC to test SQL Server connections. It's designed to help you verify the connectivity of your SQL Server database. Use this tool to ensure smooth integration between your Python application and SQL Server.
